@@ -53,4 +53,5 @@ Si escribes la frase: "Hola mundo. [Enter] Esto es facil."
 El archivo "archivo.txt" contendrá:
 
 Hola mundo. 
+
 Esto es facil.
